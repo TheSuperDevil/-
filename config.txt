@@ -23,5 +23,5 @@
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "送给爷的小可爱，作为我们之间发生争执的一个小小的补偿，快来爷怀里抱抱(｀・ω・´) 。爷承诺你，这一生都温柔待你，守护你，宠你。",
 # 金句英文
-"note_en": "For my little cutie, as a small way to make up for our disagreement, come and hug me in my arms. I promise to treat you gently(｀・ω・´) . I promise you, to treat you gently, to guard you, to spoil you all my life."
+"note_en": ""
 }
